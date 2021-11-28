@@ -1,0 +1,26 @@
+{
+  "name": "Tailwind-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer": "^9.8.8",
+    "postcss": "^7.0.39",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build-css": "tailwindcss build src/style.css -0 public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nivyapeter/Tailwind-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nivyapeter/Tailwind-css/issues"
+  },
+  "homepage": "https://github.com/nivyapeter/Tailwind-css#readme"
+}
