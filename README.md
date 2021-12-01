@@ -63,3 +63,15 @@
 - Go to https://heroicons.com/
 - Select icon and copy svg
 - Paste into the code and  add style to svg class
+
+# Installation of nodejs
+- wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+- gedit ~/.bashrc
+- nvm install v.16.13.0
+
+To use different version of node 
+- nvm use v.16.13.0
+
+To set the node version as default
+- nvm list
+- nvm alias default 6.11.5

@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "description": "## What is Taiwind CSS?",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nivyapeter/Tailwind-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nivyapeter/Tailwind-css/issues"
+  },
+  "homepage": "https://github.com/nivyapeter/Tailwind-css#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
+}
